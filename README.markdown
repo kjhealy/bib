@@ -32,6 +32,7 @@ is BibDesk specific and functions to provide a link to an associated PDF on the 
 See this [blog post](http://markelikalderon.com/blog/2008/06/17/gitting-bibtex/) for the rationale for keeping a BibTeX file in an open Git repository.
 
 # Additions by Kieran Healy. #
+In this version Philosophy.bib is the master file.                         
 
 * Added Ted Sider's bib file: [link.](http://tedsider.org/latex/teds_bib.bib)
 * Added Andrew Cullison's bib files for several major journals (AJP, Mind, Nous Phil Review, PPR): [link](http://www.andrewcullison.com/resources/). 
