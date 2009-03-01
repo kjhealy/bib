@@ -31,16 +31,28 @@ is BibDesk specific and functions to provide a link to an associated PDF on the 
 
 See this [blog post](http://markelikalderon.com/blog/2008/06/17/gitting-bibtex/) for the rationale for keeping a BibTeX file in an open Git repository.
 
-Additions: 
+# Additions by Kieran Healy. #
 
-- Added Ted Sider's bib file: [link.](http://tedsider.org/latex/teds_bib.bib)
-- Added Andrew Cullison's bib files for several major journals (AJP, Mind, Nous Phil Review, PPR): [link](http://www.andrewcullison.com/resources/). 
-- Did not merge in @other{} entries (book reviews). 
-- Removed duplicated on merging. 
-- Sorted for proper @crossref{} behavior.
-- I don't write philosophy papers, so I haven't tested this extensively. 
+* Added Ted Sider's bib file: [link.](http://tedsider.org/latex/teds_bib.bib)
+* Added Andrew Cullison's bib files for several major journals (AJP, Mind, Nous Phil Review, PPR): [link](http://www.andrewcullison.com/resources/). 
+* Did not merge in @other{} entries (book reviews). 
+* Removed duplicated on merging. 
+* Sorted for proper @crossref{} behavior.
+* I don't write philosophy papers, so I haven't tested this extensively. 
 
-# Contents
+# Current Size #
+
+*  Article          7369 
+*  Book              425 
+*  InCollection      316 
+*  InProceedings      10 
+*  PhDThesis          16 
+*  Proceedings         8 
+*  Unpublished        51 
+
+
+# Contents #
+
 
 1. Philosophy.bib
 2. README.markdown
